@@ -1,0 +1,2 @@
+rootProject.name = "Garbage management"
+include ':app'
